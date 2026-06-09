@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Computer Science student at PUC Minas. 
+
 Estudante de Ciência da Computação na PUC Minas.
 <!--
 **im-daxter/im-daxter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
